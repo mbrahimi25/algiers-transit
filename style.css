@@ -1,0 +1,100 @@
+/* Font info */
+
+@font-face {
+    font-family: 'MyriadPro-Regular';
+    src: url('./myriad-pro-webfont/MYRIADPRO-REGULAR.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Ebrima-Bold';
+    src: url('./ebrima-font/ebrima-bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Ebrima';
+    src: url('./ebrima-font/ebrima.ttf') format('truetype');
+}
+
+/* Station hover animation */
+
+#map-container svg [id^="metro_"]:hover,
+#map-container svg [id^="tramway_"]:hover,
+#map-container svg [id^="train_"]:hover {
+  transform: scale(1.35);
+  transition: transform 0.15s ease;
+  transform-box: fill-box;
+  transform-origin: center;
+}
+
+
+/* Info panel styling */
+.layout {
+  display: flex;
+  height: 100vh;
+  width: 100%;
+  font-family: Inter, system-ui, sans-serif;
+}
+
+/* Map area */
+#map-container {
+  flex: 1;
+  overflow: hidden;
+}
+
+/* Right info panel */
+#info-panel {
+  width: 340px;
+  padding: 18px;
+  border-left: 1px solid #e6e6e6;
+  background: #fafafa;
+  display: block;
+}
+
+/* Badges row */
+#badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+/* Individual badge */
+#metro-badge, #tram-badge, #train-badge{
+  font-size: 15px;
+  letter-spacing: 0.2px;
+  border-radius: 50px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#metro-badge {
+    color: white;
+    background-color: blue;
+}
+
+#tram-badge {
+    color: white;
+    background-color: red;
+}
+
+#train-badge {
+    color: white;
+    background-color: green;
+}
+
+/* Title */
+#title {
+  font-size: 25px;
+  font-weight: 600;
+  color: #1f1f1f;
+  margin-bottom: 20px;
+}
+
+/* Description */
+#desc {
+  font-size: 14px;
+  line-height: 1.5;
+  color: #555;
+}
