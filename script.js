@@ -5,7 +5,7 @@ function updateStation(id) {
   if (!data) return;
 
   document.getElementById("title").textContent = data.title;
-  document.getElementById("desc").textContent = data.desc;
+  document.getElementById("commune").textContent = "Commune: " + data.commune;
   document.getElementById("status").textContent = "Status: " + data.status;
 
   document.getElementById("metro-badge").style.display = "none";

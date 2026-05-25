@@ -1,815 +1,823 @@
 export const stations = {
     example: {
         title: "",
-        desc: "",
+        commune: "",
         status: "",
         lines: [],
-        attractions: [],
+        
     },
 
     // Metro stations
 
     metro_1: {
         title: "Aéroport",
-        desc: "",
+        commune: "Dar El Beida",
         status: "Operational - Commuter Rail",
         lines: ["metro"],
-        attractions: [],
+        
     },
 
     metro_2: {
         title: "El Harrach Gare",
-        desc: "",
+        commune: "Bourouba",
         status: "Operational",
         lines: ["metro", "train"],
-        attractions: [],
+        
     },
     
     metro_3: {
         title: "Aïn Naâdja Gare",
-        desc: "",
+        commune: "Djisr Ksentina",
         status: "Operational - Commuter Rail",
         lines: ["metro", "train"],
-        attractions: [],
+        
     },
 
     metro_4: {
         title: "Université des sciences et de la technologie Houari-Boumédiène",
-        desc: "",
+        commune: "Bab Ezzouar",
         status: "Operational - Tramway",
         lines: ["metro", "tramway"],
-        attractions: [],
+        
     },
 
     metro_5: {
         title: "Les Fusillés | Ruisseau",
-        desc: "",
+        commune: "El Madania / Kouba",
         status: "Operational",
         lines: ["metro", "tramway"],
-        attractions: [],
+        
     },
 
     metro_6: {
         title: "Cité 5 Juillet / Rabia Tahar",
-        desc: "",
+        commune: "Bab Ezzouar",
         status: "Operational - Tramway",
         lines: ["metro", "tramway"],
-        attractions: [],
+        
     },
 
     metro_7: {
         title: "Centre des Affaires",
-        desc: "",
+        commune: "Oued Smar",
         status: "Under construction / Planned",
         lines: ["metro"],
-        attractions: [],
+        
     },
 
     metro_8: {
         title: "Cité Smail Yafsah",
-        desc: "",
+        commune: "",
         status: "Under construction / Planned",
         lines: ["metro"],
-        attractions: [],
+        
     },
 
     metro_9: {
         title: "Oued Smar",
-        desc: "",
+        commune: "Oued Smar",
         status: "Under construction / Planned",
         lines: ["metro"],
-        attractions: [],
+        
     },
 
     metro_10: {
         title: "Beaulieu",
-        desc: "",
+        commune: "Oued Smar",
         status: "Under construction / Planned",
         lines: ["metro"],
-        attractions: [],
+        
     },
 
     metro_11: {
         title: "Pôle Universitaire",
-        desc: "",
+        commune: "Oued Smar",
         status: "Under construction / Planned",
         lines: ["metro"],
-        attractions: [],
+        
     },
 
     metro_12: {
         title: "Hacen Badi",
-        desc: "",
+        commune: "El Harrach",
         status: "Under construction / Planned",
         lines: ["metro"],
-        attractions: [],
+        
     },
 
     metro_13: {
         title: "El Harrach Centre",
-        desc: "",
+        commune: "El Harrach",
         status: "Operational",
         lines: ["metro"],
-        attractions: [],
+        
     },
 
     metro_14: {
         title: "Bachdjerah",
-        desc: "",
+        commune: "Bourouba",
         status: "Operational",
         lines: ["metro"],
-        attractions: [],
+        
     },
 
     metro_15: {
         title: "Cité 2004",
-        desc: "",
+        commune: "Berraki",
         status: "Under construction / Planned",
         lines: ["metro"],
-        attractions: [],
+        
     },
 
     metro_16: {
         title: "Bachdjerah - Tennis",
-        desc: "",
+        commune: "Bourouba",
         status: "Operational",
         lines: ["metro"],
-        attractions: [],
+        
     },
 
     metro_17: {
-        title: "Jardin",
-        desc: "",
+        title: "Berraki - Le Jardin",
+        commune: "",
         status: "Under construction / Planned",
         lines: ["metro"],
-        attractions: [],
+        
     },
 
     metro_18: {
         title: "Mohamed Belarbi",
-        desc: "",
+        commune: "Berraki",
         status: "Under construction / Planned",
         lines: ["metro"],
-        attractions: [],
+        
     },
 
     metro_19: {
         title: "Parc Urbain",
-        desc: "",
+        commune: "Djisr Ksentina",
         status: "Under construction / Planned",
         lines: ["metro"],
-        attractions: [],
+        
     },
 
     metro_20: {
         title: "Aïn Naâdja",
-        desc: "",
+        commune: "Djisr Ksentina",
         status: "Under construction / Planned",
         lines: ["metro"],
-        attractions: [],
+        
     },
 
     metro_21: {
         title: "Mohamed Boudiaf",
-        desc: "",
+        commune: "Djisr Ksentina",
         status: "Under construction / Planned",
         lines: ["metro"],
-        attractions: [],
+        
     },
 
     metro_22: {
         title: "Gué de Constantine",
-        desc: "",
+        commune: "Djisr Ksentina",
         status: "Operational",
         lines: ["metro"],
-        attractions: [],
+        
     },
 
     metro_23: {
         title: "Station des Ateliers",
-        desc: "",
+        commune: "Bourouba",
         status: "Operational",
         lines: ["metro"],
-        attractions: [],
+        
     },
 
     metro_24: {
         title: "Haï el Badr",
-        desc: "",
+        commune: "Kouba",
         status: "Operational",
         lines: ["metro"],
-        attractions: [],
+        
     },
 
     metro_25: {
         title: "Cité Mer et Soleil",
-        desc: "",
+        commune: "El Magharia",
         status: "Operational",
         lines: ["metro"],
-        attractions: [],
+        
     },
 
     metro_26: {
         title: "Cité Amirouche",
-        desc: "",
+        commune: "Kouba",
         status: "Operational",
         lines: ["metro"],
-        attractions: [],
+        
     },
 
     metro_27: {
         title: "Jardin d'Essais",
-        desc: "",
+        commune: "El Madania",
         status: "Operational",
         lines: ["metro"],
-        attractions: [],
+        
     },
 
     metro_28: {
         title: "Hamma",
-        desc: "",
+        commune: "Hamma Anassers",
         status: "Operational",
         lines: ["metro"],
-        attractions: [],
+        
     },
 
     metro_29: {
         title: "Aïssat Idir",
-        desc: "",
+        commune: "Sidi M'Hamed",
         status: "Operational",
         lines: ["metro"],
-        attractions: [],
+        
     },
 
     metro_30: {
         title: "1er Mai",
-        desc: "",
+        commune: "Sidi M'Hamed",
         status: "Operational",
         lines: ["metro"],
-        attractions: [],
+        
     },
 
     metro_31: {
         title: "Khelifa Boukhalfa",
-        desc: "",
+        commune: "Sidi M'hamed",
         status: "Operational",
         lines: ["metro"],
-        attractions: [],
+        
     },
 
     metro_32: {
         title: "Tafourah - Grande Poste",
-        desc: "",
+        commune: "Alger",
         status: "Operational",
         lines: ["metro"],
-        attractions: [],
+        
     },
 
     metro_33: {
         title: "Ali Boumendjel",
-        desc: "",
+        commune: "Alger",
         status: "Operational",
         lines: ["metro"],
-        attractions: [],
+        
     },
 
     metro_34: {
         title: "Place des Martyrs",
-        desc: "",
+        commune: "Casbah",
         status: "Operational",
         lines: ["metro"],
-        attractions: [],
+        
     },
 
     metro_35: {
         title: "Abderrahmane Taleb",
-        desc: "",
+        commune: "Bab El Oued",
         status: "Under construction / Planned",
         lines: ["metro"],
-        attractions: [],
+        
     },
 
     metro_36: {
         title: "Bab El Oued",
-        desc: "",
+        commune: "Bab El Oued",
         status: "Under construction / Planned",
         lines: ["metro"],
-        attractions: [],
+        
     },
 
     metro_37: {
         title: "Oued Korriche",
-        desc: "",
+        commune: "Oued Korriche",
         status: "Under construction / Planned",
         lines: ["metro"],
-        attractions: [],
+        
     },
 
     // Tramway stations
 
     tramway_1: {
         title: "Bir Mourad Raïs",
-        desc: "",
+        commune: "Bir Mourad Raïs",
         status: "Under construction / Planned",
         lines: ["tramway"],
-        attractions: [],
+        
     },
 
     tramway_2: {
         title: "Caroubier",
-        desc: "",
+        commune: "El Magharia",
         status: "Operational",
         lines: ["tramway", "train"],
-        attractions: [],
+        
     },
 
     tramway_3: {
         title: "Tripoli Mosquée | Hussein Dey",
-        desc: "",
+        commune: "Hussein Dey",
         status: "Operational",
         lines: ["tramway", "train"],
-        attractions: [],
+        
     },
 
     tramway_4: {
         title: "Faculté Biomédicale",
-        desc: "",
+        commune: "Bordj El Kiffane",
         status: "Operational",
         lines: ["tramway"],
-        attractions: [],
+        
     },
 
     tramway_5: {
         title: "Cité Diplomatique",
-        desc: "",
+        commune: "Bordj El Kiffane",
         status: "Operational",
         lines: ["tramway"],
-        attractions: [],
+        
     },
 
     tramway_6: {
         title: "Dergana Centre",
-        desc: "",
+        commune: "Bordj El Kiffane",
         status: "Operational",
         lines: ["tramway"],
-        attractions: [],
+        
     },
 
     tramway_7: {
         title: "Café Chergui",
-        desc: "",
+        commune: "Bordj El Kiffane",
         status: "Operational",
         lines: ["tramway"],
-        attractions: [],
+        
     },
 
     tramway_8: {
         title: "Ben Zerga",
-        desc: "",
+        commune: "Bordj El Kiffane",
         status: "Operational",
         lines: ["tramway"],
-        attractions: [],
+        
     },
 
     tramway_9: {
         title: "Sidi Dris",
-        desc: "",
+        commune: "Bordj El Kiffane",
         status: "Operational",
         lines: ["tramway"],
-        attractions: [],
+        
     },
 
     tramway_10: {
         title: "Ben Mered",
-        desc: "",
+        commune: "Bordj El Kiffane",
         status: "Operational",
         lines: ["tramway"],
-        attractions: [],
+        
     },
 
     tramway_11: {
         title: "Ben Merabet",
-        desc: "",
+        commune: "Bordj El Kiffane",
         status: "Operational",
         lines: ["tramway"],
-        attractions: [],
+        
     },
 
     tramway_12: {
         title: "Mimouni Mahmoud",
-        desc: "",
+        commune: "Bordj El Kiffane",
         status: "Operational",
         lines: ["tramway"],
-        attractions: [],
+        
     },
 
     tramway_13: {
         title: "Mouhous",
-        desc: "",
+        commune: "Bordj El Kiffane",
         status: "Operational",
         lines: ["tramway"],
-        attractions: [],
+        
     },
 
     tramway_14: {
         title: "Bordj El Kiffane - Polyclinique",
-        desc: "",
+        commune: "Bordj El Kiffane",
         status: "Operational",
         lines: ["tramway"],
-        attractions: [],
+        
     },
 
     tramway_15: {
         title: "Bordj El Kiffane - Centre",
-        desc: "",
+        commune: "Bordj El Kiffane",
         status: "Operational",
         lines: ["tramway"],
-        attractions: [],
+        
     },
 
     tramway_16: {
         title: "Bordj El Kiffane - Lycée",
-        desc: "",
+        commune: "Bordj El Kiffane",
         status: "Operational",
         lines: ["tramway"],
-        attractions: [],
+        
     },
 
     tramway_17: {
         title: "Cité Clair Martin",
-        desc: "",
+        commune: "Bordj El Kiffane",
         status: "Operational",
         lines: ["tramway"],
-        attractions: [],
+        
     },
 
     tramway_18: {
         title: "Cité 8 Mai 1945",
-        desc: "",
+        commune: "Bab Ezzouar",
         status: "Operational",
         lines: ["tramway"],
-        attractions: [],
+        
     },
 
     tramway_19: {
         title: "Bab Ezzouar - Le Pont",
-        desc: "",
+        commune: "Bab Ezzouar",
         status: "Operational",
         lines: ["tramway"],
-        attractions: [],
+        
     },
 
     tramway_20: {
         title: "Cité Universitaire",
-        desc: "",
+        commune: "Bab Ezzouar",
         status: "Operational",
         lines: ["tramway"],
-        attractions: [],
+        
     },
 
     tramway_21: {
         title: "Cité Rabia",
-        desc: "",
+        commune: "Bab Ezzouar",
         status: "Operational",
         lines: ["tramway"],
-        attractions: [],
+        
     },
 
     tramway_22: {
         title: "Cité Mokhtar Zerhouni",
-        desc: "",
+        commune: "Mohammadia",
         status: "Operational",
         lines: ["tramway"],
-        attractions: [],
+        
     },
 
     tramway_23: {
         title: "Tamaris",
-        desc: "",
+        commune: "Mohammadia",
         status: "Operational",
         lines: ["tramway"],
-        attractions: [],
+        
     },
 
     tramway_24: {
         title: "Les Pins",
-        desc: "",
+        commune: "Mohammadia",
         status: "Operational",
         lines: ["tramway"],
-        attractions: [],
+        
     },
 
     tramway_25: {
         title: "Foire d'Alger",
-        desc: "",
+        commune: "Mohammadia",
         status: "Operational",
         lines: ["tramway"],
-        attractions: [],
+        
     },
 
     tramway_26: {
         title: "Cinq Maisons",
-        desc: "",
+        commune: "El Harrach",
         status: "Operational",
         lines: ["tramway"],
-        attractions: [],
+        
     },
 
     tramway_27: {
         title: "Bekri Bouguerra",
-        desc: "",
+        commune: "El Harrach",
         status: "Operational",
         lines: ["tramway"],
-        attractions: [],
+        
     },
 
     tramway_28: {
         title: "Bellevue",
-        desc: "",
+        commune: "El Harrach",
         status: "Operational",
         lines: ["tramway"],
-        attractions: [],
+        
     },
 
     tramway_29: {
         title: "Pont el-Harrach",
-        desc: "",
+        commune: "Bachdjerah",
         status: "Operational",
         lines: ["tramway"],
-        attractions: [],
+        
     },
 
     tramway_30: {
         title: "La Glaciére",
-        desc: "",
+        commune: "Bachdjerah",
         status: "Operational",
         lines: ["tramway"],
-        attractions: [],
+        
     },
 
     tramway_31: {
         title: "Tripoli - Maqqaria",
-        desc: "",
+        commune: "El Magharia",
         status: "Operational",
         lines: ["tramway"],
-        attractions: [],
+        
     },
 
     tramway_32: {
         title: "Tripoli - Hamadache",
-        desc: "",
+        commune: "Hussein Dey",
         status: "Operational",
         lines: ["tramway"],
-        attractions: [],
+        
     },
 
     tramway_33: {
         title: "Tripoli - Thaalabia",
-        desc: "",
+        commune: "Hussein Dey",
         status: "Operational",
         lines: ["tramway"],
-        attractions: [],
+        
     },
 
     tramway_34: {
         title: "Les Fusillés",
-        desc: "",
+        commune: "Hussein Dey",
         status: "Operational",
         lines: ["tramway"],
-        attractions: [],
+        
     },
 
     tramway_35: {
         title: "Draria",
-        desc: "",
+        commune: "Draria",
         status: "Under construction / Planned",
         lines: ["tramway"],
-        attractions: [],
+        
+    },
+
+    tramway_36: {
+        title: "Ben Redouane",
+        commune: "Bordj El Kiffane",
+        status: "Operational",
+        lines: ["tramway"],
+        
     },
 
     // Commuter Rail
 
     train_1: {
         title: "Baba Ali",
-        desc: "",
+        commune: "Birtouta",
         status: "Operational",
         lines: ["train"],
-        attractions: [],
+        
     },
 
     train_2: {
         title: "Thénia",
-        desc: "",
+        commune: "Thénia",
         status: "Operational",
         lines: ["train"],
-        attractions: [],
+        
     },
 
     train_3: {
         title: "Tidjelabine",
-        desc: "",
+        commune: "Tidjelabine",
         status: "Operational",
         lines: ["train"],
-        attractions: [],
+        
     },
 
     train_4: {
         title: "Boumerdès",
-        desc: "",
+        commune: "Boumerdès",
         status: "Operational",
         lines: ["train"],
-        attractions: [],
+        
     },
 
     train_5: {
         title: "Corso",
-        desc: "",
+        commune: "Corso",
         status: "Operational",
         lines: ["train"],
-        attractions: [],
+        
     },
 
     train_6: {
         title: "Boudouaou",
-        desc: "",
+        commune: "Boudouaou",
         status: "Operational",
         lines: ["train"],
-        attractions: [],
+        
     },
 
     train_7: {
         title: "Réghaïa",
-        desc: "",
+        commune: "Réghaïa",
         status: "Operational",
         lines: ["train"],
-        attractions: [],
+        
     },
 
     train_8: {
         title: "Zone Industrielle Réghaïa",
-        desc: "",
+        commune: "Rouïba",
         status: "Operational",
         lines: ["train"],
-        attractions: [],
+        
     },
 
     train_9: {
         title: "Zone Industrielle Rouïba",
-        desc: "",
+        commune: "Rouïba",
         status: "Operational",
         lines: ["train"],
-        attractions: [],
+        
     },
 
     train_10: {
         title: "Rouïba",
-        desc: "",
+        commune: "Rouïba",
         status: "Operational",
         lines: ["train"],
-        attractions: [],
+        
     },
 
     train_11: {
         title: "El Affroun",
-        desc: "",
+        commune: "El Affroun",
         status: "Operational",
         lines: ["train"],
-        attractions: [],
+        
     },
 
     train_12: {
-        title: "Mouzala",
-        desc: "",
+        title: "Mouzaia",
+        commune: "Mouzaia",
         status: "Operational",
         lines: ["train"],
-        attractions: [],
+        
     },
 
     train_13: {
         title: "Chiffa",
-        desc: "",
+        commune: "Chiffa",
         status: "Operational",
         lines: ["train"],
-        attractions: [],
+        
     },
 
     train_14: {
         title: "Blida",
-        desc: "",
+        commune: "Blida",
         status: "Operational",
         lines: ["train"],
-        attractions: [],
+        
     },
 
     train_15: {
         title: "Beni Mered",
-        desc: "",
+        commune: "Beni Mered",
         status: "Operational",
         lines: ["train"],
-        attractions: [],
+        
     },
 
     train_16: {
         title: "Boufarik",
-        desc: "",
+        commune: "Boufarik",
         status: "Operational",
         lines: ["train"],
-        attractions: [],
+        
     },
 
     train_17: {
         title: "Tessala El Merdja",
-        desc: "",
+        commune: "Tessala El Merdja",
         status: "Operational",
         lines: ["train"],
-        attractions: [],
+        
     },
 
     train_18: {
         title: "Birtouta",
-        desc: "",
+        commune: "Ouled Chebel",
         status: "Operational",
         lines: ["train"],
-        attractions: [],
+        
     },
 
     train_19: {
         title: "Sidi Abdallah",
-        desc: "",
+        commune: "Mahelma",
         status: "Operational",
         lines: ["train"],
-        attractions: [],
+        
     },
 
     train_20: {
         title: "Pôle Universitaire Sidi Abdallah",
-        desc: "",
+        commune: "Mahelma",
         status: "Operational",
         lines: ["train"],
-        attractions: [],
+        
     },
 
     train_21: {
         title: "Zéralda",
-        desc: "",
+        commune: "Zéralda",
         status: "Operational",
         lines: ["train"],
-        attractions: [],
+        
     },
 
     train_22: {
         title: "Dar El Beïda",
-        desc: "",
+        commune: "Dar El Beïda",
         status: "Operational",
         lines: ["train"],
-        attractions: [],
+        
     },
 
     train_23: {
         title: "Bab Ezzouar",
-        desc: "",
+        commune: "Oued Smar",
         status: "Operational",
         lines: ["train"],
-        attractions: [],
+        
     },
 
     train_24: {
         title: "Oued Smar",
-        desc: "",
+        commune: "Oued Smar",
         status: "Operational",
         lines: ["train"],
-        attractions: [],
+        
     },
 
     train_25: {
         title: "Les Ateliers",
-        desc: "",
+        commune: "Hamma Anassers",
         status: "Operational",
         lines: ["train"],
-        attractions: [],
+        
     },
 
     train_26: {
         title: "Agha",
-        desc: "",
+        commune: "Sidi M'Hamed",
         status: "Operational",
         lines: ["train"],
-        attractions: [],
+        
     },
 
     train_27: {
         title: "Gare d'Alger",
-        desc: "",
+        commune: "Alger",
         status: "Operational",
         lines: ["train"],
-        attractions: [],
+        
     },
 
     train_28: {
         title: "Gué de Constantine",
-        desc: "",
+        commune: "Djisr Ksentina",
         status: "Operational",
         lines: ["train"],
-        attractions: [],
+        
     },
 }

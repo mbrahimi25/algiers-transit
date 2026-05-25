@@ -92,8 +92,9 @@
   margin-bottom: 20px;
 }
 
-/* Description */
-#desc {
+/* Commune */
+#commune {
+  margin-top: 5px;
   font-size: 14px;
   line-height: 1.5;
   color: #555;
