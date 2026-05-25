@@ -4,7 +4,7 @@ export const stations = {
         commune: "",
         status: "",
         lines: [],
-        
+
     },
 
     // Metro stations
@@ -14,7 +14,7 @@ export const stations = {
         commune: "Dar El Beida",
         status: "Operational - Commuter Rail",
         lines: ["metro"],
-        
+
     },
 
     metro_2: {
@@ -22,15 +22,15 @@ export const stations = {
         commune: "Bourouba",
         status: "Operational",
         lines: ["metro", "train"],
-        
+
     },
-    
+
     metro_3: {
         title: "Aïn Naâdja Gare",
         commune: "Djisr Ksentina",
         status: "Operational - Commuter Rail",
         lines: ["metro", "train"],
-        
+
     },
 
     metro_4: {
@@ -38,7 +38,7 @@ export const stations = {
         commune: "Bab Ezzouar",
         status: "Operational - Tramway",
         lines: ["metro", "tramway"],
-        
+
     },
 
     metro_5: {
@@ -46,7 +46,7 @@ export const stations = {
         commune: "El Madania / Kouba",
         status: "Operational",
         lines: ["metro", "tramway"],
-        
+
     },
 
     metro_6: {
@@ -54,7 +54,7 @@ export const stations = {
         commune: "Bab Ezzouar",
         status: "Operational - Tramway",
         lines: ["metro", "tramway"],
-        
+
     },
 
     metro_7: {
@@ -62,15 +62,15 @@ export const stations = {
         commune: "Oued Smar",
         status: "Under construction / Planned",
         lines: ["metro"],
-        
+
     },
 
     metro_8: {
         title: "Cité Smail Yafsah",
-        commune: "",
+        commune: "Bab Ezzouar",
         status: "Under construction / Planned",
         lines: ["metro"],
-        
+
     },
 
     metro_9: {
@@ -78,7 +78,7 @@ export const stations = {
         commune: "Oued Smar",
         status: "Under construction / Planned",
         lines: ["metro"],
-        
+
     },
 
     metro_10: {
@@ -86,7 +86,7 @@ export const stations = {
         commune: "Oued Smar",
         status: "Under construction / Planned",
         lines: ["metro"],
-        
+
     },
 
     metro_11: {
@@ -94,7 +94,7 @@ export const stations = {
         commune: "Oued Smar",
         status: "Under construction / Planned",
         lines: ["metro"],
-        
+
     },
 
     metro_12: {
@@ -102,7 +102,7 @@ export const stations = {
         commune: "El Harrach",
         status: "Under construction / Planned",
         lines: ["metro"],
-        
+
     },
 
     metro_13: {
@@ -110,7 +110,7 @@ export const stations = {
         commune: "El Harrach",
         status: "Operational",
         lines: ["metro"],
-        
+
     },
 
     metro_14: {
@@ -118,7 +118,7 @@ export const stations = {
         commune: "Bourouba",
         status: "Operational",
         lines: ["metro"],
-        
+
     },
 
     metro_15: {
@@ -126,7 +126,7 @@ export const stations = {
         commune: "Berraki",
         status: "Under construction / Planned",
         lines: ["metro"],
-        
+
     },
 
     metro_16: {
@@ -134,7 +134,7 @@ export const stations = {
         commune: "Bourouba",
         status: "Operational",
         lines: ["metro"],
-        
+
     },
 
     metro_17: {
@@ -142,7 +142,7 @@ export const stations = {
         commune: "",
         status: "Under construction / Planned",
         lines: ["metro"],
-        
+
     },
 
     metro_18: {
@@ -150,7 +150,7 @@ export const stations = {
         commune: "Berraki",
         status: "Under construction / Planned",
         lines: ["metro"],
-        
+
     },
 
     metro_19: {
@@ -158,7 +158,7 @@ export const stations = {
         commune: "Djisr Ksentina",
         status: "Under construction / Planned",
         lines: ["metro"],
-        
+
     },
 
     metro_20: {
@@ -166,7 +166,7 @@ export const stations = {
         commune: "Djisr Ksentina",
         status: "Under construction / Planned",
         lines: ["metro"],
-        
+
     },
 
     metro_21: {
@@ -174,7 +174,7 @@ export const stations = {
         commune: "Djisr Ksentina",
         status: "Under construction / Planned",
         lines: ["metro"],
-        
+
     },
 
     metro_22: {
@@ -182,7 +182,7 @@ export const stations = {
         commune: "Djisr Ksentina",
         status: "Operational",
         lines: ["metro"],
-        
+
     },
 
     metro_23: {
@@ -190,7 +190,7 @@ export const stations = {
         commune: "Bourouba",
         status: "Operational",
         lines: ["metro"],
-        
+
     },
 
     metro_24: {
@@ -198,7 +198,7 @@ export const stations = {
         commune: "Kouba",
         status: "Operational",
         lines: ["metro"],
-        
+
     },
 
     metro_25: {
@@ -206,7 +206,7 @@ export const stations = {
         commune: "El Magharia",
         status: "Operational",
         lines: ["metro"],
-        
+
     },
 
     metro_26: {
@@ -214,7 +214,7 @@ export const stations = {
         commune: "Kouba",
         status: "Operational",
         lines: ["metro"],
-        
+
     },
 
     metro_27: {
@@ -222,7 +222,7 @@ export const stations = {
         commune: "El Madania",
         status: "Operational",
         lines: ["metro"],
-        
+
     },
 
     metro_28: {
@@ -230,7 +230,7 @@ export const stations = {
         commune: "Hamma Anassers",
         status: "Operational",
         lines: ["metro"],
-        
+
     },
 
     metro_29: {
@@ -238,7 +238,7 @@ export const stations = {
         commune: "Sidi M'Hamed",
         status: "Operational",
         lines: ["metro"],
-        
+
     },
 
     metro_30: {
@@ -246,7 +246,7 @@ export const stations = {
         commune: "Sidi M'Hamed",
         status: "Operational",
         lines: ["metro"],
-        
+
     },
 
     metro_31: {
@@ -254,7 +254,7 @@ export const stations = {
         commune: "Sidi M'hamed",
         status: "Operational",
         lines: ["metro"],
-        
+
     },
 
     metro_32: {
@@ -262,7 +262,7 @@ export const stations = {
         commune: "Alger",
         status: "Operational",
         lines: ["metro"],
-        
+
     },
 
     metro_33: {
@@ -270,7 +270,7 @@ export const stations = {
         commune: "Alger",
         status: "Operational",
         lines: ["metro"],
-        
+
     },
 
     metro_34: {
@@ -278,7 +278,7 @@ export const stations = {
         commune: "Casbah",
         status: "Operational",
         lines: ["metro"],
-        
+
     },
 
     metro_35: {
@@ -286,7 +286,7 @@ export const stations = {
         commune: "Bab El Oued",
         status: "Under construction / Planned",
         lines: ["metro"],
-        
+
     },
 
     metro_36: {
@@ -294,7 +294,7 @@ export const stations = {
         commune: "Bab El Oued",
         status: "Under construction / Planned",
         lines: ["metro"],
-        
+
     },
 
     metro_37: {
@@ -302,7 +302,7 @@ export const stations = {
         commune: "Oued Korriche",
         status: "Under construction / Planned",
         lines: ["metro"],
-        
+
     },
 
     // Tramway stations
@@ -312,7 +312,7 @@ export const stations = {
         commune: "Bir Mourad Raïs",
         status: "Under construction / Planned",
         lines: ["tramway"],
-        
+
     },
 
     tramway_2: {
@@ -320,7 +320,7 @@ export const stations = {
         commune: "El Magharia",
         status: "Operational",
         lines: ["tramway", "train"],
-        
+
     },
 
     tramway_3: {
@@ -328,7 +328,7 @@ export const stations = {
         commune: "Hussein Dey",
         status: "Operational",
         lines: ["tramway", "train"],
-        
+
     },
 
     tramway_4: {
@@ -336,7 +336,7 @@ export const stations = {
         commune: "Bordj El Kiffane",
         status: "Operational",
         lines: ["tramway"],
-        
+
     },
 
     tramway_5: {
@@ -344,7 +344,7 @@ export const stations = {
         commune: "Bordj El Kiffane",
         status: "Operational",
         lines: ["tramway"],
-        
+
     },
 
     tramway_6: {
@@ -352,7 +352,7 @@ export const stations = {
         commune: "Bordj El Kiffane",
         status: "Operational",
         lines: ["tramway"],
-        
+
     },
 
     tramway_7: {
@@ -360,7 +360,7 @@ export const stations = {
         commune: "Bordj El Kiffane",
         status: "Operational",
         lines: ["tramway"],
-        
+
     },
 
     tramway_8: {
@@ -368,7 +368,7 @@ export const stations = {
         commune: "Bordj El Kiffane",
         status: "Operational",
         lines: ["tramway"],
-        
+
     },
 
     tramway_9: {
@@ -376,7 +376,7 @@ export const stations = {
         commune: "Bordj El Kiffane",
         status: "Operational",
         lines: ["tramway"],
-        
+
     },
 
     tramway_10: {
@@ -384,7 +384,7 @@ export const stations = {
         commune: "Bordj El Kiffane",
         status: "Operational",
         lines: ["tramway"],
-        
+
     },
 
     tramway_11: {
@@ -392,7 +392,7 @@ export const stations = {
         commune: "Bordj El Kiffane",
         status: "Operational",
         lines: ["tramway"],
-        
+
     },
 
     tramway_12: {
@@ -400,7 +400,7 @@ export const stations = {
         commune: "Bordj El Kiffane",
         status: "Operational",
         lines: ["tramway"],
-        
+
     },
 
     tramway_13: {
@@ -408,7 +408,7 @@ export const stations = {
         commune: "Bordj El Kiffane",
         status: "Operational",
         lines: ["tramway"],
-        
+
     },
 
     tramway_14: {
@@ -416,7 +416,7 @@ export const stations = {
         commune: "Bordj El Kiffane",
         status: "Operational",
         lines: ["tramway"],
-        
+
     },
 
     tramway_15: {
@@ -424,7 +424,7 @@ export const stations = {
         commune: "Bordj El Kiffane",
         status: "Operational",
         lines: ["tramway"],
-        
+
     },
 
     tramway_16: {
@@ -432,7 +432,7 @@ export const stations = {
         commune: "Bordj El Kiffane",
         status: "Operational",
         lines: ["tramway"],
-        
+
     },
 
     tramway_17: {
@@ -440,7 +440,7 @@ export const stations = {
         commune: "Bordj El Kiffane",
         status: "Operational",
         lines: ["tramway"],
-        
+
     },
 
     tramway_18: {
@@ -448,7 +448,7 @@ export const stations = {
         commune: "Bab Ezzouar",
         status: "Operational",
         lines: ["tramway"],
-        
+
     },
 
     tramway_19: {
@@ -456,7 +456,7 @@ export const stations = {
         commune: "Bab Ezzouar",
         status: "Operational",
         lines: ["tramway"],
-        
+
     },
 
     tramway_20: {
@@ -464,7 +464,7 @@ export const stations = {
         commune: "Bab Ezzouar",
         status: "Operational",
         lines: ["tramway"],
-        
+
     },
 
     tramway_21: {
@@ -472,7 +472,7 @@ export const stations = {
         commune: "Bab Ezzouar",
         status: "Operational",
         lines: ["tramway"],
-        
+
     },
 
     tramway_22: {
@@ -480,7 +480,7 @@ export const stations = {
         commune: "Mohammadia",
         status: "Operational",
         lines: ["tramway"],
-        
+
     },
 
     tramway_23: {
@@ -488,7 +488,7 @@ export const stations = {
         commune: "Mohammadia",
         status: "Operational",
         lines: ["tramway"],
-        
+
     },
 
     tramway_24: {
@@ -496,7 +496,7 @@ export const stations = {
         commune: "Mohammadia",
         status: "Operational",
         lines: ["tramway"],
-        
+
     },
 
     tramway_25: {
@@ -504,7 +504,7 @@ export const stations = {
         commune: "Mohammadia",
         status: "Operational",
         lines: ["tramway"],
-        
+
     },
 
     tramway_26: {
@@ -512,7 +512,7 @@ export const stations = {
         commune: "El Harrach",
         status: "Operational",
         lines: ["tramway"],
-        
+
     },
 
     tramway_27: {
@@ -520,7 +520,7 @@ export const stations = {
         commune: "El Harrach",
         status: "Operational",
         lines: ["tramway"],
-        
+
     },
 
     tramway_28: {
@@ -528,7 +528,7 @@ export const stations = {
         commune: "El Harrach",
         status: "Operational",
         lines: ["tramway"],
-        
+
     },
 
     tramway_29: {
@@ -536,7 +536,7 @@ export const stations = {
         commune: "Bachdjerah",
         status: "Operational",
         lines: ["tramway"],
-        
+
     },
 
     tramway_30: {
@@ -544,7 +544,7 @@ export const stations = {
         commune: "Bachdjerah",
         status: "Operational",
         lines: ["tramway"],
-        
+
     },
 
     tramway_31: {
@@ -552,7 +552,7 @@ export const stations = {
         commune: "El Magharia",
         status: "Operational",
         lines: ["tramway"],
-        
+
     },
 
     tramway_32: {
@@ -560,7 +560,7 @@ export const stations = {
         commune: "Hussein Dey",
         status: "Operational",
         lines: ["tramway"],
-        
+
     },
 
     tramway_33: {
@@ -568,7 +568,7 @@ export const stations = {
         commune: "Hussein Dey",
         status: "Operational",
         lines: ["tramway"],
-        
+
     },
 
     tramway_34: {
@@ -576,7 +576,7 @@ export const stations = {
         commune: "Hussein Dey",
         status: "Operational",
         lines: ["tramway"],
-        
+
     },
 
     tramway_35: {
@@ -584,7 +584,7 @@ export const stations = {
         commune: "Draria",
         status: "Under construction / Planned",
         lines: ["tramway"],
-        
+
     },
 
     tramway_36: {
@@ -592,7 +592,7 @@ export const stations = {
         commune: "Bordj El Kiffane",
         status: "Operational",
         lines: ["tramway"],
-        
+
     },
 
     // Commuter Rail
@@ -602,7 +602,7 @@ export const stations = {
         commune: "Birtouta",
         status: "Operational",
         lines: ["train"],
-        
+
     },
 
     train_2: {
@@ -610,7 +610,7 @@ export const stations = {
         commune: "Thénia",
         status: "Operational",
         lines: ["train"],
-        
+
     },
 
     train_3: {
@@ -618,7 +618,7 @@ export const stations = {
         commune: "Tidjelabine",
         status: "Operational",
         lines: ["train"],
-        
+
     },
 
     train_4: {
@@ -626,7 +626,7 @@ export const stations = {
         commune: "Boumerdès",
         status: "Operational",
         lines: ["train"],
-        
+
     },
 
     train_5: {
@@ -634,7 +634,7 @@ export const stations = {
         commune: "Corso",
         status: "Operational",
         lines: ["train"],
-        
+
     },
 
     train_6: {
@@ -642,7 +642,7 @@ export const stations = {
         commune: "Boudouaou",
         status: "Operational",
         lines: ["train"],
-        
+
     },
 
     train_7: {
@@ -650,7 +650,7 @@ export const stations = {
         commune: "Réghaïa",
         status: "Operational",
         lines: ["train"],
-        
+
     },
 
     train_8: {
@@ -658,7 +658,7 @@ export const stations = {
         commune: "Rouïba",
         status: "Operational",
         lines: ["train"],
-        
+
     },
 
     train_9: {
@@ -666,7 +666,7 @@ export const stations = {
         commune: "Rouïba",
         status: "Operational",
         lines: ["train"],
-        
+
     },
 
     train_10: {
@@ -674,7 +674,7 @@ export const stations = {
         commune: "Rouïba",
         status: "Operational",
         lines: ["train"],
-        
+
     },
 
     train_11: {
@@ -682,7 +682,7 @@ export const stations = {
         commune: "El Affroun",
         status: "Operational",
         lines: ["train"],
-        
+
     },
 
     train_12: {
@@ -690,7 +690,7 @@ export const stations = {
         commune: "Mouzaia",
         status: "Operational",
         lines: ["train"],
-        
+
     },
 
     train_13: {
@@ -698,7 +698,7 @@ export const stations = {
         commune: "Chiffa",
         status: "Operational",
         lines: ["train"],
-        
+
     },
 
     train_14: {
@@ -706,7 +706,7 @@ export const stations = {
         commune: "Blida",
         status: "Operational",
         lines: ["train"],
-        
+
     },
 
     train_15: {
@@ -714,7 +714,7 @@ export const stations = {
         commune: "Beni Mered",
         status: "Operational",
         lines: ["train"],
-        
+
     },
 
     train_16: {
@@ -722,7 +722,7 @@ export const stations = {
         commune: "Boufarik",
         status: "Operational",
         lines: ["train"],
-        
+
     },
 
     train_17: {
@@ -730,7 +730,7 @@ export const stations = {
         commune: "Tessala El Merdja",
         status: "Operational",
         lines: ["train"],
-        
+
     },
 
     train_18: {
@@ -738,7 +738,7 @@ export const stations = {
         commune: "Ouled Chebel",
         status: "Operational",
         lines: ["train"],
-        
+
     },
 
     train_19: {
@@ -746,7 +746,7 @@ export const stations = {
         commune: "Mahelma",
         status: "Operational",
         lines: ["train"],
-        
+
     },
 
     train_20: {
@@ -754,7 +754,7 @@ export const stations = {
         commune: "Mahelma",
         status: "Operational",
         lines: ["train"],
-        
+
     },
 
     train_21: {
@@ -762,7 +762,7 @@ export const stations = {
         commune: "Zéralda",
         status: "Operational",
         lines: ["train"],
-        
+
     },
 
     train_22: {
@@ -770,7 +770,7 @@ export const stations = {
         commune: "Dar El Beïda",
         status: "Operational",
         lines: ["train"],
-        
+
     },
 
     train_23: {
@@ -778,7 +778,7 @@ export const stations = {
         commune: "Oued Smar",
         status: "Operational",
         lines: ["train"],
-        
+
     },
 
     train_24: {
@@ -786,7 +786,7 @@ export const stations = {
         commune: "Oued Smar",
         status: "Operational",
         lines: ["train"],
-        
+
     },
 
     train_25: {
@@ -794,7 +794,7 @@ export const stations = {
         commune: "Hamma Anassers",
         status: "Operational",
         lines: ["train"],
-        
+
     },
 
     train_26: {
@@ -802,7 +802,7 @@ export const stations = {
         commune: "Sidi M'Hamed",
         status: "Operational",
         lines: ["train"],
-        
+
     },
 
     train_27: {
@@ -810,7 +810,7 @@ export const stations = {
         commune: "Alger",
         status: "Operational",
         lines: ["train"],
-        
+
     },
 
     train_28: {
@@ -818,6 +818,6 @@ export const stations = {
         commune: "Djisr Ksentina",
         status: "Operational",
         lines: ["train"],
-        
+
     },
 }
