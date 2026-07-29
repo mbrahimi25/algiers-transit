@@ -36,8 +36,8 @@ export const stations = {
     metro_4: {
         title: "Université des sciences et de la technologie Houari-Boumédiène",
         commune: "Bab Ezzouar",
-        status: "Operational - Tramway",
-        lines: ["metro", "tramway"],
+        status: "Operational - Metro",
+        lines: ["metro"],
 
     },
 
@@ -251,7 +251,7 @@ export const stations = {
 
     metro_31: {
         title: "Khelifa Boukhalfa",
-        commune: "Sidi M'hamed",
+        commune: "Sidi M'Hamed",
         status: "Operational",
         lines: ["metro"],
 
@@ -591,6 +591,14 @@ export const stations = {
         title: "Ben Redouane",
         commune: "Bordj El Kiffane",
         status: "Operational",
+        lines: ["tramway"],
+
+    },
+
+    tramway_37: {
+        title: "Université des sciences et de la technologie Houari-Boumédiène",
+        commune: "Bab Ezzouar",
+        status: "Operational - Tramway",
         lines: ["tramway"],
 
     },
